@@ -1,0 +1,6 @@
+D:\Smth\Programming\Existek\HW\Homework4\Game\Game\bin\Debug\Game.exe.config
+D:\Smth\Programming\Existek\HW\Homework4\Game\Game\bin\Debug\Game.exe
+D:\Smth\Programming\Existek\HW\Homework4\Game\Game\bin\Debug\Game.pdb
+D:\Smth\Programming\Existek\HW\Homework4\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\Smth\Programming\Existek\HW\Homework4\Game\Game\obj\Debug\Game.exe
+D:\Smth\Programming\Existek\HW\Homework4\Game\Game\obj\Debug\Game.pdb
