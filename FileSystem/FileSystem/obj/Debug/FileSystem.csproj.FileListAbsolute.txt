@@ -1,0 +1,6 @@
+D:\Smth\Programming\Existek\HW\Homework5\FileSystem\FileSystem\bin\Debug\FileSystem.exe.config
+D:\Smth\Programming\Existek\HW\Homework5\FileSystem\FileSystem\bin\Debug\FileSystem.exe
+D:\Smth\Programming\Existek\HW\Homework5\FileSystem\FileSystem\bin\Debug\FileSystem.pdb
+D:\Smth\Programming\Existek\HW\Homework5\FileSystem\FileSystem\obj\Debug\FileSystem.csprojAssemblyReference.cache
+D:\Smth\Programming\Existek\HW\Homework5\FileSystem\FileSystem\obj\Debug\FileSystem.exe
+D:\Smth\Programming\Existek\HW\Homework5\FileSystem\FileSystem\obj\Debug\FileSystem.pdb
