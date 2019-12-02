@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<carriers>
+  <flash_drive name="Flash">
+    <manufacturer>Flash</manufacturer>
+    <model>flash1</model>
+    <quantity>120</quantity>
+    <price>235,5</price>
+    <memory_capacity>111</memory_capacity>
+    <USB_speed>435</USB_speed>
+  </flash_drive>
+  <flash_drive name="Flash">
+    <manufacturer>Flash</manufacturer>
+    <model>flash1</model>
+    <quantity>120</quantity>
+    <price>235,5</price>
+    <memory_capacity>111</memory_capacity>
+    <USB_speed>435</USB_speed>
+  </flash_drive>
+  <hdd name="HDD">
+    <manufacturer>HDD</manufacturer>
+    <model>hdd1</model>
+    <quantity>100</quantity>
+    <price>335,5</price>
+    <disc_size>250</disc_size>
+    <USB_speed>100</USB_speed>
+  </hdd>
+  <hdd name="HDD">
+    <manufacturer>HDD</manufacturer>
+    <model>hdd1</model>
+    <quantity>100</quantity>
+    <price>335,5</price>
+    <disc_size>250</disc_size>
+    <USB_speed>100</USB_speed>
+  </hdd>
+  <dvd name="DVD">
+    <manufacturer>DVD</manufacturer>
+    <model>dvd1</model>
+    <quantity>150</quantity>
+    <price>400,25</price>
+    <reading_speed>120</reading_speed>
+    <writing_speed>120</writing_speed>
+  </dvd>
+  <dvd name="DVD">
+    <manufacturer>DVD</manufacturer>
+    <model>dvd1</model>
+    <quantity>10000</quantity>
+    <price>400,25</price>
+    <reading_speed>120</reading_speed>
+    <writing_speed>120</writing_speed>
+  </dvd>
+  <flash_drive name="Flash">
+    <manufacturer>Flash</manufacturer>
+    <model>flash2</model>
+    <quantity>1000</quantity>
+    <price>120</price>
+    <memory_capacity>354</memory_capacity>
+    <USB_speed>234</USB_speed>
+  </flash_drive>
+</carriers>

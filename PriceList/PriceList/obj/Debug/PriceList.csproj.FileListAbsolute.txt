@@ -1,0 +1,6 @@
+D:\Smth\Programming\Existek\HW\Homework3\PriceList\PriceList\bin\Debug\PriceList.exe.config
+D:\Smth\Programming\Existek\HW\Homework3\PriceList\PriceList\bin\Debug\PriceList.exe
+D:\Smth\Programming\Existek\HW\Homework3\PriceList\PriceList\bin\Debug\PriceList.pdb
+D:\Smth\Programming\Existek\HW\Homework3\PriceList\PriceList\obj\Debug\PriceList.csprojAssemblyReference.cache
+D:\Smth\Programming\Existek\HW\Homework3\PriceList\PriceList\obj\Debug\PriceList.exe
+D:\Smth\Programming\Existek\HW\Homework3\PriceList\PriceList\obj\Debug\PriceList.pdb
