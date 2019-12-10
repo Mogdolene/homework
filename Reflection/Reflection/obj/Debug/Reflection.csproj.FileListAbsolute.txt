@@ -1,0 +1,12 @@
+D:\Smth\Programming\Existek\HW\Reflection\Reflection\bin\Debug\Reflection.exe.config
+D:\Smth\Programming\Existek\HW\Reflection\Reflection\bin\Debug\Reflection.exe
+D:\Smth\Programming\Existek\HW\Reflection\Reflection\bin\Debug\Reflection.pdb
+D:\Smth\Programming\Existek\HW\Reflection\Reflection\obj\Debug\Reflection.csprojAssemblyReference.cache
+D:\Smth\Programming\Existek\HW\Reflection\Reflection\obj\Debug\Reflection.exe
+D:\Smth\Programming\Existek\HW\Reflection\Reflection\obj\Debug\Reflection.pdb
+D:\Smth\Programming\Existek\HW\Homework7\Reflection\Reflection\obj\Debug\Reflection.csprojAssemblyReference.cache
+D:\Smth\Programming\Existek\HW\Homework7\Reflection\Reflection\obj\Debug\Reflection.exe
+D:\Smth\Programming\Existek\HW\Homework7\Reflection\Reflection\obj\Debug\Reflection.pdb
+D:\Smth\Programming\Existek\HW\Homework7\Reflection\Reflection\bin\Debug\Reflection.exe.config
+D:\Smth\Programming\Existek\HW\Homework7\Reflection\Reflection\bin\Debug\Reflection.exe
+D:\Smth\Programming\Existek\HW\Homework7\Reflection\Reflection\bin\Debug\Reflection.pdb
