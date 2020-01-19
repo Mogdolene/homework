@@ -1,0 +1,14 @@
+D:\Smth\Programming\Existek\Lessons\WPF\ДЗ\Homework1\Homework1\bin\Debug\Homework1.exe.config
+D:\Smth\Programming\Existek\Lessons\WPF\ДЗ\Homework1\Homework1\bin\Debug\Homework1.exe
+D:\Smth\Programming\Existek\Lessons\WPF\ДЗ\Homework1\Homework1\bin\Debug\Homework1.pdb
+D:\Smth\Programming\Existek\Lessons\WPF\ДЗ\Homework1\Homework1\obj\Debug\Homework1.csprojAssemblyReference.cache
+D:\Smth\Programming\Existek\Lessons\WPF\ДЗ\Homework1\Homework1\obj\Debug\MainWindow.g.cs
+D:\Smth\Programming\Existek\Lessons\WPF\ДЗ\Homework1\Homework1\obj\Debug\App.g.cs
+D:\Smth\Programming\Existek\Lessons\WPF\ДЗ\Homework1\Homework1\obj\Debug\Homework1_MarkupCompile.cache
+D:\Smth\Programming\Existek\Lessons\WPF\ДЗ\Homework1\Homework1\obj\Debug\Homework1_MarkupCompile.lref
+D:\Smth\Programming\Existek\Lessons\WPF\ДЗ\Homework1\Homework1\obj\Debug\MainWindow.baml
+D:\Smth\Programming\Existek\Lessons\WPF\ДЗ\Homework1\Homework1\obj\Debug\Homework1.g.resources
+D:\Smth\Programming\Existek\Lessons\WPF\ДЗ\Homework1\Homework1\obj\Debug\Homework1.Properties.Resources.resources
+D:\Smth\Programming\Existek\Lessons\WPF\ДЗ\Homework1\Homework1\obj\Debug\Homework1.csproj.GenerateResource.cache
+D:\Smth\Programming\Existek\Lessons\WPF\ДЗ\Homework1\Homework1\obj\Debug\Homework1.exe
+D:\Smth\Programming\Existek\Lessons\WPF\ДЗ\Homework1\Homework1\obj\Debug\Homework1.pdb
